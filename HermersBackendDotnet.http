@@ -1,0 +1,6 @@
+@HermersBackendDotnet_HostAddress = http://localhost:5089
+
+GET {{HermersBackendDotnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
