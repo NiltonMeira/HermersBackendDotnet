@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IBWrEHbajVPeFuhCn1jjHoCQlwD7QBJ0SJ3WalkF+1M=",
+  "Source": "HermersBackendDotnet",
+  "BasePath": "_content/HermersBackendDotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
